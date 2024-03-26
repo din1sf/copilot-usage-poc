@@ -1,0 +1,520 @@
+[
+  {
+    "day": "2023-10-15",
+    "total_suggestions_count": 5539,
+    "total_acceptances_count": 5526,
+    "total_lines_suggested": 8124,
+    "total_lines_accepted": 6127,
+    "total_active_users": 18,
+    "breakdown": [
+      {
+        "language": "C#",
+        "editor": "jetbrains",
+        "suggestions_count": 1633,
+        "acceptances_count": 1228,
+        "lines_suggested": 1992,
+        "lines_accepted": 1329,
+        "active_users": 5
+      },
+      {
+        "language": "java",
+        "editor": "atom",
+        "suggestions_count": 1330,
+        "acceptances_count": 1176,
+        "lines_suggested": 1476,
+        "lines_accepted": 1478,
+        "active_users": 4
+      },
+      {
+        "language": "javascript",
+        "editor": "atom",
+        "suggestions_count": 926,
+        "acceptances_count": 328,
+        "lines_suggested": 1056,
+        "lines_accepted": 630,
+        "active_users": 7
+      }
+    ]
+  },
+  {
+    "day": "2023-10-16",
+    "total_suggestions_count": 4743,
+    "total_acceptances_count": 2576,
+    "total_lines_suggested": 5962,
+    "total_lines_accepted": 3196,
+    "total_active_users": 11,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 591,
+        "acceptances_count": 473,
+        "lines_suggested": 708,
+        "lines_accepted": 551,
+        "active_users": 6
+      },
+      {
+        "language": "python",
+        "editor": "vscode",
+        "suggestions_count": 1682,
+        "acceptances_count": 962,
+        "lines_suggested": 2264,
+        "lines_accepted": 1366,
+        "active_users": 7
+      },
+      {
+        "language": "C#",
+        "editor": "sublime",
+        "suggestions_count": 1835,
+        "acceptances_count": 1417,
+        "lines_suggested": 2113,
+        "lines_accepted": 1603,
+        "active_users": 7
+      }
+    ]
+  },
+  {
+    "day": "2023-10-17",
+    "total_suggestions_count": 4967,
+    "total_acceptances_count": 4447,
+    "total_lines_suggested": 6807,
+    "total_lines_accepted": 5268,
+    "total_active_users": 20,
+    "breakdown": [
+      {
+        "language": "javascript",
+        "editor": "jetbrains",
+        "suggestions_count": 1267,
+        "acceptances_count": 436,
+        "lines_suggested": 1784,
+        "lines_accepted": 714,
+        "active_users": 7
+      },
+      {
+        "language": "ruby",
+        "editor": "atom",
+        "suggestions_count": 1739,
+        "acceptances_count": 1259,
+        "lines_suggested": 2489,
+        "lines_accepted": 1554,
+        "active_users": 4
+      },
+      {
+        "language": "C#",
+        "editor": "jetbrains",
+        "suggestions_count": 1979,
+        "acceptances_count": 1846,
+        "lines_suggested": 2186,
+        "lines_accepted": 1952,
+        "active_users": 4
+      }
+    ]
+  },
+  {
+    "day": "2023-10-18",
+    "total_suggestions_count": 5518,
+    "total_acceptances_count": 4228,
+    "total_lines_suggested": 8517,
+    "total_lines_accepted": 5349,
+    "total_active_users": 18,
+    "breakdown": [
+      {
+        "language": "C#",
+        "editor": "atom",
+        "suggestions_count": 1125,
+        "acceptances_count": 808,
+        "lines_suggested": 1669,
+        "lines_accepted": 864,
+        "active_users": 4
+      },
+      {
+        "language": "java",
+        "editor": "atom",
+        "suggestions_count": 831,
+        "acceptances_count": 320,
+        "lines_suggested": 1171,
+        "lines_accepted": 741,
+        "active_users": 7
+      },
+      {
+        "language": "C#",
+        "editor": "sublime",
+        "suggestions_count": 1333,
+        "acceptances_count": 745,
+        "lines_suggested": 1861,
+        "lines_accepted": 861,
+        "active_users": 5
+      }
+    ]
+  },
+  {
+    "day": "2023-10-19",
+    "total_suggestions_count": 5354,
+    "total_acceptances_count": 2637,
+    "total_lines_suggested": 8312,
+    "total_lines_accepted": 3759,
+    "total_active_users": 10,
+    "breakdown": [
+      {
+        "language": "python",
+        "editor": "atom",
+        "suggestions_count": 803,
+        "acceptances_count": 299,
+        "lines_suggested": 1522,
+        "lines_accepted": 554,
+        "active_users": 7
+      },
+      {
+        "language": "javascript",
+        "editor": "sublime",
+        "suggestions_count": 1507,
+        "acceptances_count": 825,
+        "lines_suggested": 2467,
+        "lines_accepted": 908,
+        "active_users": 5
+      },
+      {
+        "language": "javascript",
+        "editor": "atom",
+        "suggestions_count": 1532,
+        "acceptances_count": 938,
+        "lines_suggested": 2181,
+        "lines_accepted": 1383,
+        "active_users": 5
+      }
+    ]
+  },
+  {
+    "day": "2023-10-20",
+    "total_suggestions_count": 5771,
+    "total_acceptances_count": 4489,
+    "total_lines_suggested": 8710,
+    "total_lines_accepted": 5131,
+    "total_active_users": 19,
+    "breakdown": [
+      {
+        "language": "C#",
+        "editor": "vscode",
+        "suggestions_count": 803,
+        "acceptances_count": 789,
+        "lines_suggested": 1601,
+        "lines_accepted": 1250,
+        "active_users": 6
+      },
+      {
+        "language": "java",
+        "editor": "atom",
+        "suggestions_count": 1980,
+        "acceptances_count": 1745,
+        "lines_suggested": 2752,
+        "lines_accepted": 1865,
+        "active_users": 6
+      },
+      {
+        "language": "java",
+        "editor": "vscode",
+        "suggestions_count": 1181,
+        "acceptances_count": 528,
+        "lines_suggested": 1684,
+        "lines_accepted": 768,
+        "active_users": 4
+      }
+    ]
+  },
+  {
+    "day": "2023-10-21",
+    "total_suggestions_count": 5602,
+    "total_acceptances_count": 3779,
+    "total_lines_suggested": 8542,
+    "total_lines_accepted": 5019,
+    "total_active_users": 14,
+    "breakdown": [
+      {
+        "language": "C#",
+        "editor": "vscode",
+        "suggestions_count": 1791,
+        "acceptances_count": 831,
+        "lines_suggested": 2509,
+        "lines_accepted": 1223,
+        "active_users": 4
+      },
+      {
+        "language": "javascript",
+        "editor": "jetbrains",
+        "suggestions_count": 614,
+        "acceptances_count": 343,
+        "lines_suggested": 1543,
+        "lines_accepted": 659,
+        "active_users": 5
+      },
+      {
+        "language": "javascript",
+        "editor": "atom",
+        "suggestions_count": 1561,
+        "acceptances_count": 318,
+        "lines_suggested": 1876,
+        "lines_accepted": 373,
+        "active_users": 6
+      }
+    ]
+  },
+  {
+    "day": "2023-10-22",
+    "total_suggestions_count": 5905,
+    "total_acceptances_count": 4075,
+    "total_lines_suggested": 8445,
+    "total_lines_accepted": 5285,
+    "total_active_users": 10,
+    "breakdown": [
+      {
+        "language": "javascript",
+        "editor": "jetbrains",
+        "suggestions_count": 995,
+        "acceptances_count": 694,
+        "lines_suggested": 1965,
+        "lines_accepted": 891,
+        "active_users": 3
+      },
+      {
+        "language": "ruby",
+        "editor": "vscode",
+        "suggestions_count": 1603,
+        "acceptances_count": 289,
+        "lines_suggested": 2016,
+        "lines_accepted": 356,
+        "active_users": 5
+      },
+      {
+        "language": "java",
+        "editor": "atom",
+        "suggestions_count": 1325,
+        "acceptances_count": 1295,
+        "lines_suggested": 1650,
+        "lines_accepted": 1642,
+        "active_users": 3
+      }
+    ]
+  },
+  {
+    "day": "2023-10-23",
+    "total_suggestions_count": 5795,
+    "total_acceptances_count": 5075,
+    "total_lines_suggested": 7745,
+    "total_lines_accepted": 6509,
+    "total_active_users": 16,
+    "breakdown": [
+      {
+        "language": "ruby",
+        "editor": "sublime",
+        "suggestions_count": 1191,
+        "acceptances_count": 937,
+        "lines_suggested": 2074,
+        "lines_accepted": 1218,
+        "active_users": 6
+      },
+      {
+        "language": "C#",
+        "editor": "sublime",
+        "suggestions_count": 1916,
+        "acceptances_count": 1307,
+        "lines_suggested": 2504,
+        "lines_accepted": 1494,
+        "active_users": 7
+      },
+      {
+        "language": "java",
+        "editor": "atom",
+        "suggestions_count": 1754,
+        "acceptances_count": 677,
+        "lines_suggested": 2743,
+        "lines_accepted": 1058,
+        "active_users": 5
+      }
+    ]
+  },
+  {
+    "day": "2023-10-24",
+    "total_suggestions_count": 5073,
+    "total_acceptances_count": 2598,
+    "total_lines_suggested": 7259,
+    "total_lines_accepted": 3268,
+    "total_active_users": 14,
+    "breakdown": [
+      {
+        "language": "java",
+        "editor": "atom",
+        "suggestions_count": 925,
+        "acceptances_count": 507,
+        "lines_suggested": 1486,
+        "lines_accepted": 862,
+        "active_users": 4
+      },
+      {
+        "language": "C#",
+        "editor": "sublime",
+        "suggestions_count": 1391,
+        "acceptances_count": 1045,
+        "lines_suggested": 2130,
+        "lines_accepted": 1306,
+        "active_users": 4
+      },
+      {
+        "language": "ruby",
+        "editor": "atom",
+        "suggestions_count": 1060,
+        "acceptances_count": 334,
+        "lines_suggested": 1350,
+        "lines_accepted": 791,
+        "active_users": 6
+      }
+    ]
+  },
+  {
+    "day": "2023-10-25",
+    "total_suggestions_count": 4899,
+    "total_acceptances_count": 2324,
+    "total_lines_suggested": 6570,
+    "total_lines_accepted": 3408,
+    "total_active_users": 14,
+    "breakdown": [
+      {
+        "language": "C#",
+        "editor": "atom",
+        "suggestions_count": 1167,
+        "acceptances_count": 601,
+        "lines_suggested": 1862,
+        "lines_accepted": 878,
+        "active_users": 7
+      },
+      {
+        "language": "C#",
+        "editor": "sublime",
+        "suggestions_count": 1808,
+        "acceptances_count": 1416,
+        "lines_suggested": 2237,
+        "lines_accepted": 1615,
+        "active_users": 7
+      },
+      {
+        "language": "C#",
+        "editor": "atom",
+        "suggestions_count": 584,
+        "acceptances_count": 383,
+        "lines_suggested": 1501,
+        "lines_accepted": 812,
+        "active_users": 3
+      }
+    ]
+  },
+  {
+    "day": "2023-10-26",
+    "total_suggestions_count": 4693,
+    "total_acceptances_count": 3269,
+    "total_lines_suggested": 6949,
+    "total_lines_accepted": 3803,
+    "total_active_users": 12,
+    "breakdown": [
+      {
+        "language": "ruby",
+        "editor": "sublime",
+        "suggestions_count": 1198,
+        "acceptances_count": 589,
+        "lines_suggested": 1980,
+        "lines_accepted": 690,
+        "active_users": 6
+      },
+      {
+        "language": "python",
+        "editor": "sublime",
+        "suggestions_count": 1034,
+        "acceptances_count": 261,
+        "lines_suggested": 1865,
+        "lines_accepted": 714,
+        "active_users": 4
+      },
+      {
+        "language": "javascript",
+        "editor": "vscode",
+        "suggestions_count": 1552,
+        "acceptances_count": 1159,
+        "lines_suggested": 2337,
+        "lines_accepted": 1488,
+        "active_users": 7
+      }
+    ]
+  },
+  {
+    "day": "2023-10-27",
+    "total_suggestions_count": 4425,
+    "total_acceptances_count": 3538,
+    "total_lines_suggested": 6565,
+    "total_lines_accepted": 4641,
+    "total_active_users": 17,
+    "breakdown": [
+      {
+        "language": "python",
+        "editor": "sublime",
+        "suggestions_count": 1391,
+        "acceptances_count": 832,
+        "lines_suggested": 1522,
+        "lines_accepted": 1317,
+        "active_users": 4
+      },
+      {
+        "language": "ruby",
+        "editor": "sublime",
+        "suggestions_count": 909,
+        "acceptances_count": 874,
+        "lines_suggested": 1848,
+        "lines_accepted": 1177,
+        "active_users": 6
+      },
+      {
+        "language": "java",
+        "editor": "jetbrains",
+        "suggestions_count": 989,
+        "acceptances_count": 310,
+        "lines_suggested": 1974,
+        "lines_accepted": 723,
+        "active_users": 5
+      }
+    ]
+  },
+  {
+    "day": "2023-10-28",
+    "total_suggestions_count": 5801,
+    "total_acceptances_count": 5399,
+    "total_lines_suggested": 8174,
+    "total_lines_accepted": 6644,
+    "total_active_users": 19,
+    "breakdown": [
+      {
+        "language": "javascript",
+        "editor": "sublime",
+        "suggestions_count": 1533,
+        "acceptances_count": 879,
+        "lines_suggested": 2262,
+        "lines_accepted": 1117,
+        "active_users": 4
+      },
+      {
+        "language": "ruby",
+        "editor": "sublime",
+        "suggestions_count": 1461,
+        "acceptances_count": 997,
+        "lines_suggested": 1780,
+        "lines_accepted": 1312,
+        "active_users": 6
+      },
+      {
+        "language": "C#",
+        "editor": "atom",
+        "suggestions_count": 1894,
+        "acceptances_count": 1883,
+        "lines_suggested": 2594,
+        "lines_accepted": 1948,
+        "active_users": 3
+      }
+    ]
+  }
+]
